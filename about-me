@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="sv">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My portfolio</title>
+    <meta name="description" content="Kort text">
+    <link rel="stylesheet" href="./styles.css" type="text/css">
+  </head>
+  <body>
+    <div class="hero">
+      <h1>My Lorem Ipsum portfolio</h1>
+    </div>
+    <div class="menu">
+      <a href="./my-work">My work</a>
+      <a href="./about-me">About me</a>
+      <a href="./contact">Contact</a>
+    </div>
+  </body>
+</html>
